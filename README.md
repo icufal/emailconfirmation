@@ -106,6 +106,9 @@ void NetworkManager::onFinished(QNetworkReply* reply) {
     reply->deleteLater();
 ```
 
+Server side scripts
+===================
+
 Applies to
 ----------
 
